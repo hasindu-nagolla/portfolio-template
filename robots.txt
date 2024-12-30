@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hasindu-nagolla.github.io/example-portfolio/sitemap.xml
