@@ -2,5 +2,5 @@
 example portfolio template, created using HTML, CSS and JavaScript
 
 ```
-https://hasindulakshan.github.io/example-portfolio/
+https://hasindu-nagolla.github.io/portfolio-template/
 ```
